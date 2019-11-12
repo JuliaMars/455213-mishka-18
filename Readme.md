@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Юлия Марс](https://up.htmlacademy.ru/adaptive/18/user/455213).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Рубец](https://htmlacademy.ru/profile/amator).
 
 ---
 
